@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/andynebs/static/css/main.8861e702.chunk.css",
-    "main.js": "/andynebs/static/js/main.a43dabc0.chunk.js",
-    "main.js.map": "/andynebs/static/js/main.a43dabc0.chunk.js.map",
-    "runtime-main.js": "/andynebs/static/js/runtime-main.471145c6.js",
-    "runtime-main.js.map": "/andynebs/static/js/runtime-main.471145c6.js.map",
-    "static/css/2.7fc9bc2b.chunk.css": "/andynebs/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.f52aeb07.chunk.js": "/andynebs/static/js/2.f52aeb07.chunk.js",
-    "static/js/2.f52aeb07.chunk.js.map": "/andynebs/static/js/2.f52aeb07.chunk.js.map",
-    "index.html": "/andynebs/index.html",
-    "static/css/2.7fc9bc2b.chunk.css.map": "/andynebs/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.8861e702.chunk.css.map": "/andynebs/static/css/main.8861e702.chunk.css.map",
-    "static/js/2.f52aeb07.chunk.js.LICENSE.txt": "/andynebs/static/js/2.f52aeb07.chunk.js.LICENSE.txt",
-    "static/media/images.css": "/andynebs/static/media/mmeink.15b3c8f0.png",
-    "static/media/no-touch.min.css": "/andynebs/static/media/cafe.261c8078.png"
+    "main.css": "/static/css/main.20443f61.chunk.css",
+    "main.js": "/static/js/main.a43dabc0.chunk.js",
+    "main.js.map": "/static/js/main.a43dabc0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.f52aeb07.chunk.js": "/static/js/2.f52aeb07.chunk.js",
+    "static/js/2.f52aeb07.chunk.js.map": "/static/js/2.f52aeb07.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.20443f61.chunk.css.map": "/static/css/main.20443f61.chunk.css.map",
+    "static/js/2.f52aeb07.chunk.js.LICENSE.txt": "/static/js/2.f52aeb07.chunk.js.LICENSE.txt",
+    "static/media/images.css": "/static/media/mmeink.15b3c8f0.png",
+    "static/media/no-touch.min.css": "/static/media/cafe.261c8078.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.471145c6.js",
+    "static/js/runtime-main.5ebc510a.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.f52aeb07.chunk.js",
-    "static/css/main.8861e702.chunk.css",
+    "static/css/main.20443f61.chunk.css",
     "static/js/main.a43dabc0.chunk.js"
   ]
 }
